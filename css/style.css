@@ -235,6 +235,10 @@ a.nav-link.btn.btn-primary.login-btn {
     justify-content: space-between;
 }
 
+.dropdown.notification {
+    cursor: pointer;
+}
+
 /* index content */
 
 section.wel-content-ind {
